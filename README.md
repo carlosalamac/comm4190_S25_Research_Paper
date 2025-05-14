@@ -1,26 +1,6 @@
-# COMM4190 Spring 2025 - Research Project
+# COMM4190 Spring 2025 - Applying Expectancy Violations Theory to LLM Interactions
+# Carlos Lama
 
-* Use this repository for your Research Project
+As large language models (LLMs) like ChatGPT become embedded in everyday communication, users increasingly form social and communicative expectations about how these systems should respond. When these expectations are violated—through unexpected humor, emotion, refusal, or personality shifts—user perceptions of trust, usefulness, and engagement may be altered. This study applies Expectancy Violations Theory (EVT) to analyze how such deviations influence human evaluations of LLM responses. Using a sampled survey of 32 participants reacting to eight carefully constructed LLM outputs—each representing a different type of communicative violation—we collected 256 data points measuring surprise, perceived usefulness, trust shifts, and emotional appropriateness. Results reveal that violations are not inherently negative: humor and light emotionality often increased engagement and trust, while blunt refusals or over-confident personalization reduced perceived credibility. These findings support EVT's premise that the reaction of a violation is mediated by the communicator's perceived reward value. The paper concludes with design recommendations for LLM developers, suggesting that adaptive tone, graceful refusals, and context-aware creativity can make violations feel welcome rather than disruptive.
 
-
-### Overview
-
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
+* [Click here to open the paper](FinalPaper.ipynb)
